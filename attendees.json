@@ -1,0 +1,23 @@
+[
+  {
+    "name": "John Smith",
+    "email": "john@smith.com",
+    "attendingWith": ["sarah@smith.com"],
+    "tags": ["vip"],
+    "meal": "beef"
+  },
+  {
+    "name": "David Black",
+    "email": "david@black.com",
+    "attendingWith": [],
+    "tags": [],
+    "meal": null
+  },
+  {
+    "name": "Sarah Smith",
+    "email": "sarah@smith.com",
+    "attendingWith": ["john@smith.com"],
+    "tags": ["speaker", "vip"],
+    "meal": "fish"
+  }
+]
